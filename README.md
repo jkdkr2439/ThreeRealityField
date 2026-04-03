@@ -59,7 +59,7 @@ surface   Documents (760) — papers, code, texts, most specific
 Four vertices wrapping everything — meta-methods for viewing the field:
 
 - **NMF** — Name = f(Meaning, Frame). How to read any node.
-- **SDCHV** — Sinh/Dan/Chuyen/Huong/Vo. Lifecycle of every node.
+- **SDC(D/H)V** — Sinh/Dan/Chuyen/(Dung or Hoai)/Vo. Lifecycle of every node. Born fragile, grow connections, transform, stabilize (Dung) or fade (Hoai), die.
 - **Phap Luan** — Two methods: trace to essence + transform through resonance.
 - **3 Reality Layers** — Subjective / Intersubjective / Absolute.
 
