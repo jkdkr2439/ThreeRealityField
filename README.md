@@ -58,10 +58,10 @@ surface   Documents (760) — papers, code, texts, most specific
 
 Four vertices wrapping everything — meta-methods for viewing the field:
 
-- **NMF** — Name = f(Meaning, Frame). How to read any node.
+- **LMF** — Label = f(Meaning, Frame). How to read any node.
 - **SDC(D/H)V** — Sinh/Dan/Chuyen/(Dung or Hoai)/Vo. Lifecycle of every node. Born fragile, grow connections, transform, stabilize (Dung) or fade (Hoai), die.
-- **Phap Luan** — Two methods: trace to essence + transform through resonance.
-- **3 Reality Layers** — Subjective / Intersubjective / Absolute.
+- **RT/OT** — Two methods from UTC (Unified Theory of Cognition) / SEF (Structure-Epistemology Framework) on one fractal cycle: RT = Resonant Transformation (forward pass, forecast evolution) and OT = Ontic Tracing (backward pass, trace to generative conditions). Cycle: Void → Birth → Guidance → Transition → Void.
+- **3 Reality Layers** — R1 Subjective / R2 Intersubjective / R3 Absolute objective.
 
 The pyramid is not inside the field. It is the frame through which the field is observed.
 
@@ -83,7 +83,7 @@ ThreeRealityField/
 ├── gen_3d.py                # Generate 3D orbital visualization
 ├── kevin_fieldmap.db        # Example fieldmap (33K nodes, 17MB)
 ├── kevin_fieldmap_3d.html   # Interactive 3D visualization (open in browser)
-├── LICENSE
+├── LICENSE                  # AGPL-3.0
 └── .gitignore
 ```
 
